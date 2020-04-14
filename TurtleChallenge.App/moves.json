@@ -1,0 +1,44 @@
+﻿[
+  {
+    "actions": [
+      "rotate",
+      "move",
+      "move",
+      "move",
+      "move",
+      "rotate",
+      "rotate",
+      "rotate",
+      "move",
+      "move"
+    ]
+  },
+  {
+    "actions": [
+      "move",
+      "rotate",
+      "move",
+      "move",
+      "move",
+      "rotate",
+      "rotate",
+      "rotate",
+      "move",
+      "move"
+    ]
+  },
+  {
+    "actions": [
+      "move",
+      "move",
+      "move"
+    ]
+  },
+  {
+    "actions": [
+      "rotate",
+      "rotate",
+      "move"
+    ]
+  }
+]
