@@ -13,7 +13,7 @@ namespace TurtleChallenge.Tests
         private IEnumerable<Mine> _mines;
         private Exit _exit;
 
-        private const int SizeX = 5;
+        private const int SizeX = 6;
         private const int SizeY = 5;
         private const int MinePosX = 1;
         private const int MinePosY = 1;
